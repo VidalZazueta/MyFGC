@@ -12,4 +12,4 @@ If you love Tekken, this tournament was really exciting to watch. I did not see 
 So far I only plan to make this website for my personal use. How things are currently, I don't have the abilities to make this into an actual website that with a large userbase. However if I do improve and gain abilities to do so, I will attempt to turn this website into a CRUD where users can create accounts to display whatever fighting game communities they want to see.
 
 ## Technologies Used
-I used Vite to help me create the project with the comman npm vite@latest. I chose Javascript as the programming language as well as the React.js framework. I also used Node.js to be able to run a local server of my website to see the changes I make. Finally, I used HTML to display webpages and CSS to give styling to components.
+I used Vite to help me create the project with the command npm vite@latest. I chose Javascript as the programming language as well as the React.js framework. I also used Node.js to be able to run a local server of my website to see the changes I make. Finally, I will use HTML to display webpages and CSS to give styling to components.
